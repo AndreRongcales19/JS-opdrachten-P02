@@ -2,16 +2,16 @@
     {
         "name": "Go Lang",
         "description": "Go is blah blah blah",
-        "image": "oefening p03 eindtoets/node_modules/img/1200px-Go_Logo_Blue.svg.png"
+        "image": "/node_modules/img/1200px-Go_Logo_Blue.svg.png"
     },
     {
         "name": "Node JS",
         "description": "Node is blah blah blah",
-        "image": "oefening p03 eindtoets/node_modules/img/1200px-Node.js_logo.svg.png"
+        "image": "/node_modules/img/1200px-Node.js_logo.svg.png"
     },
     {
         "name": "Next JS",
         "description": "Next is blah blah blah",
-        "image": "oefening p03 eindtoets/node_modules/img/nextjs-icon-2048x1234-pqycciiu.png"
+        "image": "/node_modules/img/nextjs-icon-2048x1234-pqycciiu.png"
     }
 ]

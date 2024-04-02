@@ -11,8 +11,9 @@ app.get('/', (req, res) => {
     res.send('Hello World!')
 })
 
-app.get('/test', (req, res) => {
-    fs.readFile('oefening p03 eindtoets/array.json', function (err, data) {
+app.get('oefening p03 eindtoets/js/test.js', (req, res) => {
+    res.setHeader('Content-type', 'application/json;charset=UTF-8');
+    fs.readFile('array.json', function (err, data) {
         res.send(data);
     })
 })
